@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top {
+    display: flex;
+    flex: 1;
+}
+
+.information {
+    display: flex;
+    flex: 1;
+
+}
+
+.quote {
+    display: flex;
+    flex: 1;
+
+}
+
+.bottom {
+    display: flex;
+    flex: 1;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
